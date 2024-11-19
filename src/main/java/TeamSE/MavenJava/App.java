@@ -1,7 +1,7 @@
 package TeamSE.MavenJava;
 
 /**
- * Hello world!
+ * Hello 
  *
  */
 public class App 
